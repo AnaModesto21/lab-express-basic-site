@@ -1,0 +1,64 @@
+
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.card-img-top{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.image{
+    width:700px;
+    height: 500px;
+    display:block;
+    margin: 0 auto;
+}
+.link{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-food{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.him{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height:200;
+    margin-top: 100px;
+}
+
+.back{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.card-title{
+ text-align: center;
+}
